@@ -1,2 +1,2 @@
 # Javascript-Training
-This repo contains all code create during my training on JavaScript
+This repo contains all code created during my training on JavaScript
